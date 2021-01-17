@@ -1,0 +1,117 @@
+@media (max-width: 1199.98px) { 
+.creativity_contant:hover {
+    height: 450px;
+    width: 312px;}
+
+    
+}
+
+@media (max-width: 991.98px) { 
+ 
+    .creativity_contant:hover {
+   
+ width: 220px;
+    }
+    .creativity_contant {
+  
+        width: 205px;
+    }
+    
+.creativity_contant p {
+    font-size: 12px;
+}
+    .creativity_contant h3 {
+        font-size: 15px;
+    }
+    .icons{
+        opacity: 0;
+    }
+    .successfull_left p:nth-child(2) {
+        font-size: 15px;
+    }
+    .navbar .navbar-nav .nav-item {
+    padding: 0 12px;
+    text-align: center;
+}
+   
+}
+
+
+@media (max-width: 767.98px) { 
+   
+    .icons{
+        opacity:1; 
+        margin-top: -333px;
+
+    }
+     .creativity_contant:hover {
+   
+width: 350px;
+    }
+    .online_bes_contant p {
+    max-width: 801px;
+    margin: auto;
+    font-size: 14px;
+    }
+    .online_bes_contant h1 {
+    max-width: 400px;
+        font-size: 30px;
+    }
+    .successfull_left p:nth-child(1) {
+    font-weight: 800;
+        font-size: 32px;}
+    
+    .successfull_right > h1 {
+   
+    font-size: 30px;
+}
+      .creativity_contant:hover {
+    width: 300px;
+    height: 380px;
+}
+    
+}
+
+
+@media (max-width: 575.98px) { 
+
+.online_bes_contant p {
+    max-width: 435px;
+    font-size: 12px;
+    
+    }
+  
+    .online_bus_img img {
+
+    height: 250px
+    }
+    .successfull_left p:nth-child(2) {
+    font-size: 11px;
+}
+    .successfull_right > h1 {
+    font-size: 27px;
+}
+    .online_bes_contant h1 {
+    max-width: 326px;
+    font-size: 23px;
+}
+    
+element.style {
+}
+.footer_contant strong {
+    font-size: 12px !important;
+    font-weight: 500;
+}
+    .footer_contant {
+    color: #ffff;
+    font-size: 10px;
+}
+}
+
+
+
+
+
+
+
+
